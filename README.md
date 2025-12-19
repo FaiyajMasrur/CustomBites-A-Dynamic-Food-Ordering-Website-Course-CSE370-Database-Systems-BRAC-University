@@ -1,0 +1,2 @@
+# CustomBites-A-Dynamic-Food-Ordering-Website-Course-CSE370-Database-Systems-BRAC-University
+🔍 Project Overview: CustomBites allows users to:  • 🍽️ Browse a variety of food items  • 🛠️ Customize their orders according to preferences  • 🛒 Place orders in real-time  Meanwhile, the admin panel empowers the backend with:  • 👤 User management  • 📦 Order tracking &amp; control  • 🍕 Food item database control
